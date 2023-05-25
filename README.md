@@ -1,4 +1,4 @@
-#### 'Project' to enable PRO-licensed features of Liquibase.
+### 'Project' to enable PRO-licensed features of Liquibase.
 
 Build can be done only on \*nix machines, because of case-sensitive filenames inside processed JARs.
 
